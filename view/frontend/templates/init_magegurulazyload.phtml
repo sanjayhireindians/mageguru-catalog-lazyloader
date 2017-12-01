@@ -1,0 +1,12 @@
+<script type="text/javascript">
+    require(['jquery','magegurulazyloader'], function($){
+      $(document).ready(function(){
+			var placeholder ='<?php echo $block->getViewFileUrl('Mageguru_Lazyload::images/lazyloader.gif')?>'; 
+			$("img.lazy").lazyload({
+				placeholder : placeholder,
+				effect : "fadeIn"
+			});		 
+	  });
+	  
+ });
+</script>
