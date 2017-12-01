@@ -2,7 +2,7 @@
 	"name": "mageguru/catalog-lazyloader",
 	"description": "This extension reduce the loading time of categories pages by loading product images on demand and save server resources. Images outside of customer viewport will not be loaded before user scrolls to them.",
 	"type": "magento2-module",
-	"minimum-stability" : "alpha",
+	"minimum-stability" : "dev",
 	"license": "MIT",
 	"keywords": ["lazyloader","lazyload","catalog lazyloader"],
 	"require": {
