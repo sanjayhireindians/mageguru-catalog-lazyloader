@@ -7,7 +7,7 @@
 	"keywords": ["lazyloader","lazyload","catalog lazyloader"],
 	"require": {
         "magento/product-community-edition": "2.1.1",
-        "composer/composer": "@alpha"
+        "composer/composer": "dev"
     },
 	"version": "2.1.1",
 	"license": [
