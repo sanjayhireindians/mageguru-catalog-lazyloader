@@ -1,5 +1,5 @@
 ###____________________Description____________________##
-This extension reduce loading time of categories pages by loading product images on demand and save server resources. Images outside of customer viewport will not be loaded before user scrolls to them.
+This extension reduce loading time of categories pages by loading product images on demand and save server resources. Images outside of Mageguru lazyloader is exclusive extension to improve the performances of the category's pages. Mageguru lazyloader extension reduce loading time of categories pages by loading product images on demand and save server resources. During page load images outside of customer viewport will not be loaded before user scrolls to them. 
 
 ###________________Installation Process________________##
 
